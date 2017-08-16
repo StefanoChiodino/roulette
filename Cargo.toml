@@ -1,0 +1,7 @@
+[package]
+name = "roulette"
+version = "0.1.0"
+authors = ["Stefano Chiodino <louderth@gmail.com>"]
+
+[dependencies]
+itertools = "0.6.1"
